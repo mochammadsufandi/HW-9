@@ -1,0 +1,8 @@
+# exception file with .pdf extension
+*.pdf
+
+# exception directory
+node_modules
+
+.env
+connectDB.js
